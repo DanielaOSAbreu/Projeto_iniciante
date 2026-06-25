@@ -3,3 +3,12 @@
     min-width: 320px;
 }
 
+.logo {
+width: 254px;
+height: 70px;
+angle: 0 deg;
+opacity: 1;
+top: 34px;
+left: 513px;
+
+}
